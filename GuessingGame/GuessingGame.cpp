@@ -43,7 +43,7 @@ void GuessingGame::_Init()
 	{
 		std::cout << "===================\n"
 			<< "Difficulty Settings\n"
-			<< "Easy(10 tries) - 1\n"
+			<< "Easy(12 tries) - 1\n"
 			<< "Medium(7 tries) - 2\n"
 			<< "Hard(4 tries) - 3\n"
 			<< "Pick Difficulty: ";
@@ -383,5 +383,5 @@ int GuessingGame::Play()
 Designer: Tyler Ingham
 Developer: Tyler Ingham
 Version: 1.0
-Last Updated: 1/9/17 (Ver. 1.0)
+Last Updated: 1/9/17 (Ver. 1.0.1)
 */

@@ -1,4 +1,4 @@
-#GuessingGame
+GuessingGame
 Simple C++ Console Based Game
 
 To play game, include GuessingGame.h and GuessingGame.cpp in your working directory
@@ -7,5 +7,3 @@ then compile and run. See GuessingGame.cpp for instructions and information on h
 use class.
 
 Added an exe file for download and ease of use if you want to just play the game.
-
-For questions or concerns send an email to ingham_tyler@yahoo.com
